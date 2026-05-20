@@ -75,8 +75,7 @@ HuggingFace-NLP-Project/
 │
 ├── hugging_face.ipynb
 ├── README.md
-├── requirements.txt
-├── .gitignore/
+├── requirements.txt/
 ```
 
 ---
